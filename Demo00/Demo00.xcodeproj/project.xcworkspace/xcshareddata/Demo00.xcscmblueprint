@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "733f0bc1-45ba-47cb-832a-2253f812da15" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "733f0bc1-45ba-47cb-832a-2253f812da15" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DA1A62C8-89AE-4751-B54B-4CE748E58045",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "733f0bc1-45ba-47cb-832a-2253f812da15" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Demo00",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Demo00\/Demo00.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.svnchina.com\/svn\/ming",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "733f0bc1-45ba-47cb-832a-2253f812da15"
+    }
+  ]
+}
